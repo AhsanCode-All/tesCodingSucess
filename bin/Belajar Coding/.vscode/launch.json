@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "belajargithub",
+            "request": "launch",
+            "mainClass": "belajar.javates.belajargithub",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "warna",
+            "request": "launch",
+            "mainClass": "belajar.javates.warna",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "luas",
+            "request": "launch",
+            "mainClass": "belajar.javates.luas",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Fungsi",
+            "request": "launch",
+            "mainClass": "belajar.javates.Fungsi",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "belajar.javates.Array",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "tiktokLat",
+            "request": "launch",
+            "mainClass": "belajar.javates.tiktokLat",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Kalkulator2",
+            "request": "launch",
+            "mainClass": "belajar.javates.Kalkulator2",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "belajar.javates.Method",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "latihanJava",
+            "request": "launch",
+            "mainClass": "belajar.javates.latihanJava",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Kalkulator2",
+            "request": "launch",
+            "mainClass": "belajar.javates.Kalkulator2",
+            "projectName": "Belajar Coding"
+        },
+        {
+            "type": "java",
+            "name": "Kalkulator",
+            "request": "launch",
+            "mainClass": "belajar.javates.Kalkulator",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "belajar.javates.Main",
+            "projectName": "Belajar Coding_f052d753"
+        },
+        {
+            "type": "java",
+            "name": "ini",
+            "request": "launch",
+            "mainClass": "ini",
+            "projectName": "Belajar Coding_f052d753"
+        }
+    ]
+}

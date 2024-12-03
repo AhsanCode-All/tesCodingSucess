@@ -1,0 +1,12 @@
+.biasa {
+    background-color: rgb(241, 168, 71);
+    color: black;
+    font-size: 100px;
+    cursor: pointer;
+    padding: 5px;
+}
+.biasa:hover {
+    color: blue;
+    background-color: brown;
+    transition: all .3s;
+}
